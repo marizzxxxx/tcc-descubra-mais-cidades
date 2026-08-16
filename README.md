@@ -36,9 +36,9 @@ O projeto foi estruturado através do framework *Double Diamond* (Design Centrad
 *   [Style Guide & Componentes UI](artefatos/3-desenvolvimento/style-guide.png) — Tipografia, cores (padrão WCAG) e kit de botões.
 
 ### 📦 4. Entrega (Deliver)
-*   [Rabiscoframes](artefatos/4-entrega/rabiscoframes.png) — Esboços rápidos de baixa fidelidade em papel.
-*   [Wireframes de Média Fidelidade](artefatos/4-entrega/wireframes.png) — Esqueleto digital e fluxos navegacionais.
-*   [Telas Finais de Alta Fidelidade](artefatos/4-entrega/prototipo-alta-fidelidade.png) — Design de interface finalizado.
+*   [Rabiscoframes](artefatos/4-entrega/rabiscoframe) — Esboços rápidos de baixa fidelidade em papel.
+*   [Wireframes de Média Fidelidade](artefatos/4-entrega/wireframe) — Esqueleto digital e fluxos navegacionais.
+*   [Telas Finais de Alta Fidelidade](artefatos/4-entrega/prototipoaltafidelidade) — Design de interface finalizado.
 
 ---
 
