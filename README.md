@@ -20,23 +20,23 @@ O projeto **Descubra +Cidades** é uma solução de engenharia de usabilidade e 
 O projeto foi estruturado através do framework *Double Diamond* (Design Centrado no Usuário). Abaixo, encontram-se os links diretos para visualizar cada imagem e diagrama na sua resolução máxima:
 
 ### 🔍 1. Descoberta (Discover)
-*   [Matriz CSD](artefatos/1-descoberta/matriz-csd.png) — Mapeamento de certezas, suposições e dúvidas.
+*   [Matriz CSD](artefatos/descoberta/matriz-csd.png) — Mapeamento de certezas, suposições e dúvidas.
 *   [Benchmark de Mercado](artefatos/1-descoberta/benchmark.png) — Análise de concorrentes globais e hiperlocais.
 
 ### 📌 2. Definição (Define)
-*   [Personas do Projeto](artefatos/2-definicao/personas.png) — Modelagem empírica de utilizadores.
+*   [Personas do Projeto](artefatos/definicao/personas.png) — Modelagem empírica de utilizadores.
 *   [Mapa de Empatia](artefatos/2-definicao/mapa-empatia.png) — Análise psicológica e sensorial dos perfis.
 *   [Jornada do Usuário](artefatos/2-definicao/jornada-usuario.png) — Linha do tempo de interações e curvas de humor.
 *   [Matriz SWOT](artefatos/2-definicao/matriz-swot.png) — Planeamento estratégico e viabilidade.
 
 ### 💡 3. Desenvolvimento (Develop)
-*   [Matriz de Priorização](artefatos/3-desenvolvimento/matriz-priorizacao.png) — Triagem de esforço vs. impacto para definição do MVP.
+*   [Matriz de Priorização](artefatos/desenvolvimento/matriz-priorizacao.png) — Triagem de esforço vs. impacto para definição do MVP.
 *   [Sitemap e Arquitetura de Informação](artefatos/3-desenvolvimento/sitemap.png) — Fluxos de navegação e taxonomia.
 *   [Moodboard de Inspiração](artefatos/3-desenvolvimento/moodboard.png) — Curadoria visual de referências regionais.
 *   [Style Guide & Componentes UI](artefatos/3-desenvolvimento/style-guide.png) — Tipografia, cores (padrão WCAG) e kit de botões.
 
 ### 📦 4. Entrega (Deliver)
-*   [Rabiscoframes](artefatos/4-entrega/rabiscoframe) — Esboços rápidos de baixa fidelidade em papel.
+*   [Rabiscoframes](artefatos/entrega/rabiscoframe) — Esboços rápidos de baixa fidelidade em papel.
 *   [Wireframes de Média Fidelidade](artefatos/4-entrega/wireframe) — Esqueleto digital e fluxos navegacionais.
 *   [Telas Finais de Alta Fidelidade](artefatos/4-entrega/prototipoaltafidelidade) — Design de interface finalizado.
 
